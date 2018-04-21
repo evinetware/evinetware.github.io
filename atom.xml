@@ -1,43 +1,145 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>项目信息发布</title>
+  <title>Growinware</title>
   
   
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-04-16T08:09:32.000Z</updated>
+  <updated>2018-04-21T13:09:28.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>New Author</name>
+    <name>Growinware</name>
     
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>测试页面</title>
-    <link href="http://yoursite.com/2018/04/16/hello-world/"/>
-    <id>http://yoursite.com/2018/04/16/hello-world/</id>
-    <published>2018-04-16T08:09:32.000Z</published>
-    <updated>2018-04-16T08:09:32.000Z</updated>
+    <title>课题一研讨会</title>
+    <link href="http://yoursite.com/2018/04/22/2018-04-22/"/>
+    <id>http://yoursite.com/2018/04/22/2018-04-22/</id>
+    <published>2018-04-21T16:00:00.000Z</published>
+    <updated>2018-04-21T13:09:28.000Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="测试"><a href="#测试" class="headerlink" title="测试"></a>测试</h1><p><code>Hello</code> <em>world</em></p><ul><li>1</li><li>2</li><li>3</li></ul><ol><li>1</li><li>2</li><li>3</li></ol><p>The quick brown fox jumps over the lazy dog.  The quick brown fox jumps over the lazy dog.  The quick brown fox jumps over the lazy dog.  The quick brown fox jumps over the lazy dog.  The quick brown fox jumps over the lazy dog.  The quick brown fox jumps over the lazy dog.  The quick brown fox jumps over the lazy dog.  The quick brown fox jumps over the lazy dog.  The quick brown fox jumps over the lazy dog.  The quick brown fox jumps over the lazy dog.  The quick brown fox jumps over the lazy dog.  The quick brown fox jumps over the lazy dog.  The quick brown fox jumps over the lazy dog.  The quick brown fox jumps over the lazy dog.  The quick brown fox jumps over the lazy dog.  The quick brown fox jumps over the lazy dog.  The quick brown fox jumps over the lazy dog.  The quick brown fox jumps over the lazy dog.  The quick brown fox jumps over the lazy dog.  The quick brown fox jumps over the lazy dog.  The quick brown fox jumps over the lazy dog.  The quick brown fox jumps over the lazy dog.  The quick brown fox jumps over the lazy dog.</p><h2 id="测试1"><a href="#测试1" class="headerlink" title="测试1"></a>测试1</h2><h2 id="测试2"><a href="#测试2" class="headerlink" title="测试2"></a>测试2</h2><h3 id="测试3"><a href="#测试3" class="headerlink" title="测试3"></a>测试3</h3>]]></content>
+    <content type="html"><![CDATA[<p>课题一各位专家(来自南京大学、华东师范大学、南京理工大学)将在南京大学仙林校区计算机楼探讨课题一工作思路和研究进展。</p><a id="more"></a>]]></content>
     
     <summary type="html">
     
-      
-      
-        &lt;h1 id=&quot;测试&quot;&gt;&lt;a href=&quot;#测试&quot; class=&quot;headerlink&quot; title=&quot;测试&quot;&gt;&lt;/a&gt;测试&lt;/h1&gt;&lt;p&gt;&lt;code&gt;Hello&lt;/code&gt; &lt;em&gt;world&lt;/em&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;1&lt;/li&gt;
-&lt;li&gt;2&lt;/li&gt;
-&lt;li&gt;3
-      
+      &lt;p&gt;课题一各位专家(来自南京大学、华东师范大学、南京理工大学)将在南京大学仙林校区计算机楼探讨课题一工作思路和研究进展。&lt;/p&gt;
     
     </summary>
     
+    
+      <category term="重点专项" scheme="http://yoursite.com/tags/%E9%87%8D%E7%82%B9%E4%B8%93%E9%A1%B9/"/>
+    
+      <category term="课题1" scheme="http://yoursite.com/tags/%E8%AF%BE%E9%A2%981/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>项目启动与实施论证会</title>
+    <link href="http://yoursite.com/2018/01/21/2018-01-21/"/>
+    <id>http://yoursite.com/2018/01/21/2018-01-21/</id>
+    <published>2018-01-20T16:00:00.000Z</published>
+    <updated>2018-04-21T13:09:28.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/content/2018-01-21.jpg" alt=""></p><p>在南京召开。</p><p><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></p><a id="more"></a><p>张世琨(北京大学):<br>有意义也有难度，建议:课题出亮点，特别是课题二、三和四；确定杀手级的应用。</p><p>管海兵(上海交通大学):<br>建议:把成果影响在科研社区里开放和共享；管理方面，落实到人，具体点，明确顾问组和专家组应该承担的责任。</p><p>杜小勇(人民大学):<br>局外话，为什么没得图灵奖，细节越细越容易做，可能细节完成但大成果出不来，甘特图很细了，有几个概念不太明白，如深度定义软件、智能软件、可成长软件，有何方法在国际上闯，(讨论:在图灵奖和细节之间找平衡点)，中期等检查点检查什么，既要有容易考核的指标，也要有基础研究上的突破。</p><p>赵建华(南京大学):<br>基础研究不可预期，有突破性进展时，是否有额外人力部署上去。</p><p>金海(华中科技大学):<br>体会:科学问题定位很准确，没听清楚理论体系，环境感知、适应决策、持续演化等是特征，但理论体系需要深化，关键词是智能化;人工智能对软件影响很大，智能化后如何做环境感知等工作，智能化体现不够，像是数据驱动的工作，智能化还不够强;973当作863做不合适，但亮点是什么，图灵奖太大了，比如500字说明，要有支撑，如谁用到了等，每年给傅处写500字，也不能太深奥(下午:铺得太大了，主动感知和智能决策需要再明确化些)。</p><p>傅耀威(科技部领导):<br>甘特图很出乎意料，最后成果形态讲清楚就可以了，不忘初心，项目层讲清楚，课题层自己安排，(讨论:往下想点也可以)，做细了也不是坏事，但项目层有点薄弱，依托专家组管理课题，要完善下，(讨论:借鉴李满春方案，不会浪费)。</p><p>梅宏(北京理工大学):<br>这个项目是目前为止最大的基础研究(讨论:第二大)，扣费少，也是个人期望很高的;软件曾经很重要，引领科技发展，随着开源，基础软件门槛降低，软件工程也面临问题，原有开发方法在大数据时代遇到挑战，不再按照传统方法开展，需要相对灵活，可能要被引领，未来需要考虑的事，强调软件定义，应用支撑，软件能力在哪里，涉及到软件理论，还需要系统原则，未来整体在大数据方面还有支持;不能太注重指标，对年轻同志不追求指标，不要围绕指标做事，把眼界放远点，国家由大转强，不能求大和求亮，展开有话语权的事，如Linux、概念，如DARPA百年不变，代表了追求，要谈概念引领，如数字经济，95年就有人提，G20时中国倡导才起来，总书记说大数据是信息化的新阶段，是分阶段的，完成数字化、网络化，现在是智能化，基于这些的应用能力呈现，办公数字化=》社会数字化=》所有数字化，这个项目应该呈现概念，从网构软件来，不能丢，能否把软件自动化再拿出来说，徐先生最早说，</p><p>一直做，国际上没人提，凝练长期目标，要形成引领，增大国际影响力，软件自动化也可以作为标签，比文章抵用，基础研究应该落在这里;希望，今年有中国/中文开源社区，中文期刊建设，不要再追求数目，那是自己找不自在，我们强的是有用;实施报告去掉太细的东西，比如甘特图;重要的是比如概念或工具。</p><p>吕建(南京大学):</p><p>(对梅宏)课题负责人多想想概念，即可成长网构软件(即为智能化软件，不是人工智能);(对金海)主线对外人不明显，未来统一一个理论和方法体系，课题负责人也要多想想，金老师的问题是因为没听懂;(对傅耀威)管理上的问题，地海院的做法可以借鉴，但要注意是否是工程性的，我们是基础研究，前期讨论不浪费。</p><p>(对大家)把实施方案再改改，任务书里的不动，在某些点上不要太刚性，内部方案不动，往上方案柔化下，做点调整，说明前段时间都落实下去了，大家都做了努力;对中文社区不管了，不是这个项目的事;要组建专家组。</p><p>大家讨论:</p><p>加限定词聚焦;不能改任务书，去掉甘特图;课题五不能做研究，应该是说怎么用;国际上打概念;做事要有历史佐证;模板要一致。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;/content/2018-01-21.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;在南京召开。&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="重点专项" scheme="http://yoursite.com/tags/%E9%87%8D%E7%82%B9%E4%B8%93%E9%A1%B9/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>项目启动与实施协调会</title>
+    <link href="http://yoursite.com/2018/01/12/2018-01-12/"/>
+    <id>http://yoursite.com/2018/01/12/2018-01-12/</id>
+    <published>2018-01-11T16:00:00.000Z</published>
+    <updated>2018-04-21T13:20:51.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/content/2018-01-12.jpg" alt=""></p><p>项目各课题牵头单位与应用承担单位各位专家（来自南京大学、国防科技大学、北京大学、中科院软件所、中电28所、南瑞集团）在南京大学仙林校区计算机楼探讨项目技术内容和演示建设方案。</p><a id="more"></a>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;/content/2018-01-12.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;项目各课题牵头单位与应用承担单位各位专家（来自南京大学、国防科技大学、北京大学、中科院软件所、中电28所、南瑞集团）在南京大学仙林校区计算机楼探讨项目技术内容和演示建设方案。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="重点专项" scheme="http://yoursite.com/tags/%E9%87%8D%E7%82%B9%E4%B8%93%E9%A1%B9/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>课题一任务与经费协调会</title>
+    <link href="http://yoursite.com/2018/01/06/2018-01-06/"/>
+    <id>http://yoursite.com/2018/01/06/2018-01-06/</id>
+    <published>2018-01-05T16:00:00.000Z</published>
+    <updated>2018-04-21T13:09:28.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>重点专项课题1任务安排与经费分配协调会在南京大学召开。</p><a id="more"></a><p>会议<a href="">slides</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;重点专项课题1任务安排与经费分配协调会在南京大学召开。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="重点专项" scheme="http://yoursite.com/tags/%E9%87%8D%E7%82%B9%E4%B8%93%E9%A1%B9/"/>
+    
+      <category term="课题1" scheme="http://yoursite.com/tags/%E8%AF%BE%E9%A2%981/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>项目任务洽谈会</title>
+    <link href="http://yoursite.com/2017/09/24/2017-09-24/"/>
+    <id>http://yoursite.com/2017/09/24/2017-09-24/</id>
+    <published>2017-09-23T16:00:00.000Z</published>
+    <updated>2018-04-21T13:09:28.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>在北京召开。</p><a id="more"></a>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;在北京召开。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="重点专项" scheme="http://yoursite.com/tags/%E9%87%8D%E7%82%B9%E4%B8%93%E9%A1%B9/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>项目动员会</title>
+    <link href="http://yoursite.com/2017/08/29/2017-08-29/"/>
+    <id>http://yoursite.com/2017/08/29/2017-08-29/</id>
+    <published>2017-08-28T16:00:00.000Z</published>
+    <updated>2018-04-21T13:09:28.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>科技部高技术中心国家重点研发计划重点专项2017年度项目启动工作会议在北京成功召开。</p><a id="more"></a><table><thead><tr><th></th><th></th></tr></thead><tbody><tr><td>会议时间:</td><td>2017年8月29日</td></tr><tr><td>会议地点:</td><td>北京京西宾馆 会议楼一层大会议室</td></tr><tr><td>会议主持:</td><td>卞曙光主任</td></tr></tbody></table>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;科技部高技术中心国家重点研发计划重点专项2017年度项目启动工作会议在北京成功召开。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="重点专项" scheme="http://yoursite.com/tags/%E9%87%8D%E7%82%B9%E4%B8%93%E9%A1%B9/"/>
     
   </entry>
   
