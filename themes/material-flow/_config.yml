@@ -33,7 +33,7 @@ menu:
 # widgets
 widgets:
   - about
-  - categories
+  - tagcloud
 
 # Less
 less:
