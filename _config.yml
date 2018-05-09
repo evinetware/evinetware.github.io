@@ -79,5 +79,5 @@ theme: material-flow
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/evinetware/evinetware.github.io.git
+  repo: https://github.com/growinware/growinware.github.io.git
   branch: master
