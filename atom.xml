@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-11-29T14:22:19.257Z</updated>
+  <updated>2018-12-27T04:57:14.073Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>项目2018年度进展汇报与技术交流会在南京召开</title>
+    <link href="http://yoursite.com/2018/12/15/2018-12-15/"/>
+    <id>http://yoursite.com/2018/12/15/2018-12-15/</id>
+    <published>2018-12-14T16:00:00.000Z</published>
+    <updated>2018-12-27T04:57:14.073Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/content/2018-12-15a.jpg" alt=""></p><p>“云计算和大数据”重点专项项目年度进展汇报与技术交流会于2018年12月15日至16日在南京召开。项目各课题负责人汇报总结了项目已经取得的进展和成果，并对进一步工作、需要攻克的难点和目前进展不足之处进行了研讨。</p><a id="more"></a><p>(TBD)</p><p><img src="/content/2018-12-15b.jpg" alt=""></p><p><img src="/content/2018-12-15c.jpg" alt=""></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;/content/2018-12-15a.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;“云计算和大数据”重点专项项目年度进展汇报与技术交流会于2018年12月15日至16日在南京召开。项目各课题负责人汇报总结了项目已经取得的进展和成果，并对进一步工作、需要攻克的难点和目前进展不足之处进行了研讨。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="重点专项" scheme="http://yoursite.com/tags/%E9%87%8D%E7%82%B9%E4%B8%93%E9%A1%B9/"/>
+    
+  </entry>
   
   <entry>
     <title>项目年度进展报告</title>
